@@ -15,6 +15,7 @@ header {
     color: #ffffff;
 }
 
+/* This tag covers the company name on the top left */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -103,7 +104,7 @@ aside img {
     margin-left: 25px;
 }
 
-/* This is styling for the main boxes directly below page main image. */
+/* This is styling for the main content boxes directly below page main image. */
 main {
     width: 75%;
     display: inline-block;
@@ -127,6 +128,7 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 
 footer {
     padding: 30px;
